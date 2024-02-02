@@ -1,0 +1,11 @@
+public class form1
+private sub
+dum a As Integer
+ a=Inputbox("enter your choice")
+select case(a)
+case Is ="1"
+msgbox.show("today your choice")
+case Is="2"
+end select
+end sub
+end class
